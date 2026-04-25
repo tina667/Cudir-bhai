@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "Chudir bhai",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "cudir_bhai",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "terraria9.aternos.me",
+    "port": 53889,
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
